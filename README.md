@@ -1,2 +1,2 @@
-## Python Notes
-Python notes and examples.
+## Python
+Notas e exemplos em Python.
