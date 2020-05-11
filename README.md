@@ -1,2 +1,2 @@
 ## Python Notes
-Anotações diversas sobre Python
+Python notes and examples.
